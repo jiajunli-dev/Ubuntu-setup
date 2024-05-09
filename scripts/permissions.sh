@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Set permissions
-chmod +x scripts/*.sh
+chmod +x *.sh
