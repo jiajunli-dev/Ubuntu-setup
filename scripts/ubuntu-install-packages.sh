@@ -20,6 +20,8 @@ sudo apt-get install -y dotnet-runtime-6.0
 
 # Install Node.js
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
-sudo nvm install --lts
 
+cd ~
+source .zshrc
 
+nvm install --lts
