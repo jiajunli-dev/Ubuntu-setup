@@ -22,6 +22,5 @@ sudo apt-get install -y dotnet-runtime-6.0
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
 
 cd ~
-source .zshrc
 
 nvm install --lts
