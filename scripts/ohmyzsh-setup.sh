@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install xsel
+
 # Install zsh
 sudo apt-get install zsh
 
